@@ -25,24 +25,6 @@ This project helps practice front-end design, button layout, DOM manipulation, a
 
 ---
 
-## 🖼️ Screenshot
-> Replace with your project screenshot once hosted.
-
-![Calculator Screenshot](./screenshot.png)
-
----
-
-## ⚡ How to Use
-1. Clone this repository:
-   git clone https://github.com/your-username/Calculator.git
-2. Open the project folder:
-   cd Calculator
-3. Run the app:
-   Open index.html in your browser.
-   (Or use a tool like Live Server in VS Code for a better experience)
-
----
-
 ## 🔧 Technologies Used
 - HTML5 – structure
 - CSS3 – styling & responsiveness
