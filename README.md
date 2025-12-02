@@ -20,7 +20,7 @@ This project helps practice front-end design, button layout, DOM manipulation, a
 ┣ 📜 index.html
 ┣ 📜 style.css
 ┣ 📜 script.js
-┣ 📜 favicon.png
+┣ 📜 favicon.svg
 ┗ 📜 README.md
 
 ---
