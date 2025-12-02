@@ -30,13 +30,6 @@ This project helps practice front-end design, button layout, DOM manipulation, a
 - CSS3 – styling & responsiveness
 - JavaScript – logic & interactivity
 
----
-
-## 🌟 Future Improvements
-- Add percentage % operator
-- Add history/log of calculations
-- Keyboard input support
-- Scientific calculator functions (sin, cos, log, etc.)
 
 ---
 
